@@ -19,8 +19,8 @@ A responsive and animated landing page built for a local pool construction busin
 
 ## 🖥️ Demo
 
-🔗 [Live Demo](https://my-portfolio-app-lime-gamma.vercel.app)  
-🔗 [Github Repository](https://github.com/hobaaaa/my-portfolio-app.git)
+🔗 [Live Demo](https://swimming-pool-app.vercel.app/)  
+🔗 [Github Repository](https://github.com/hobaaaa/swimming-pool-app)
 
 ## 📦 How to Use
 
