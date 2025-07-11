@@ -2,7 +2,6 @@ import { Assets, Project, Service } from "@/types";
 import logo from "./logo.png";
 import menu_black from "./menu-black.png";
 import close_black from "./close-black.png";
-import havuz from "./havuz.jpg";
 import pool from "./pool.png";
 import spa_sauna from "./spa-sauna.png";
 import send_icon from "./send-icon.png";
@@ -12,7 +11,6 @@ export const assets: Assets = {
   logo,
   menu_black,
   close_black,
-  havuz,
   pool,
   spa_sauna,
   send_icon,

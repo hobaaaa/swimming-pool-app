@@ -4,7 +4,7 @@ import { motion } from "motion/react";
 const Hero = () => {
   return (
     <>
-      <div className=" bg-[url(@/assets/havuz.jpg)] bg-cover bg-center">
+      <div className=" bg-[url(/havuz.jpg)] bg-cover bg-center">
         <div className="w-11/12 max-w-3xl text-center mx-auto h-screen flex flex-col justify-center items-center gap-4">
           <motion.div
             initial={{ y: -20, opacity: 0 }}

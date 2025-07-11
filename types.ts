@@ -4,7 +4,6 @@ export type AssetKey =
   | "logo"
   | "menu_black"
   | "close_black"
-  | "havuz"
   | "pool"
   | "spa_sauna"
   | "send_icon"
